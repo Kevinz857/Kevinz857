@@ -25,9 +25,5 @@ Hello! I'm Kevinz857, focusing on **cloud-native technologies** and the **Kubern
 - **Platforms:** Kubernetes, KubeSphere, Kubeflow
 - **Expertise:** Cloud-native infrastructure, Containers & orchestration, High-performance computing & scheduling
 
-## 📫 Contact
-
-- GitHub: [Kevinz857](https://github.com/Kevinz857)
-- Email: <kevinnz@foxmail.com>
 
 _Always open to collaboration and new opportunities!_
