@@ -1,7 +1,5 @@
 # 🌱  Hi, I'm Kevinz857 👋
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kevinz857&color=blue)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kevinz857&show_icons=true&theme=radical)
 
 - Software engineer with a strong focus on Cloud Native, Kubernetes, Metrics, Spark, and AI Infrastructure.
